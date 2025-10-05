@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run DM_Kasse_5 (JavaFX)",
+      "request": "launch",
+      "mainClass": "arkatosh.dm_kasse_5.DM_Kasse_5",
+      "projectName": "DM_Kasse_5",
+      "vmArgs": "--module-path \"${workspaceFolder}/target/dependency/javafx\" --add-modules javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "☕ DM_Kasse_5",
+      "request": "launch",
+      "mainClass": "arkatosh.dm_kasse_5.DM_Kasse_5",
+      "projectName": "DM_Kasse_5",
+      "vmArgs": "-Dcom.sun.management.jmxremote=false -Djava.awt.headless=true -XX:+DisableAttachMechanism",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

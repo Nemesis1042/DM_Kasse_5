@@ -1,1 +1,14 @@
-arkatosh/dm_kasse_5/DM_Kasse_5.class
+arkatosh\dm_kasse_5\core\Product.class
+arkatosh\dm_kasse_5\ui\tabs\VerkaufTab.class
+arkatosh\dm_kasse_5\db\Database.class
+arkatosh\dm_kasse_5\ui\tabs\EventsTab.class
+arkatosh\dm_kasse_5\ui\MainWindow.class
+arkatosh\dm_kasse_5\ui\tabs\ProdukteTab.class
+arkatosh\dm_kasse_5\core\Database.class
+arkatosh\dm_kasse_5\ui\tabs\EinstellungenTab.class
+arkatosh\dm_kasse_5\DM_Kasse_5.class
+arkatosh\dm_kasse_5\ui\LoginWindow.class
+arkatosh\dm_kasse_5\print\PrinterStub.class
+arkatosh\dm_kasse_5\core\Debug.class
+arkatosh\dm_kasse_5\ui\tabs\StatistikTab.class
+arkatosh\dm_kasse_5\ui\tabs\PfandTab.class

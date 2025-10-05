@@ -1,0 +1,10 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "maven.terminal.useJavaHome": true,
+  "java.jdt.ls.java.home": "C:\\Program Files\\Microsoft\\jdk-21.0.8.9-hotspot",
+  "java.project.sourcePaths": [
+    "src/main/java"
+  ],
+  "java.project.outputPath": "target/classes"
+}
