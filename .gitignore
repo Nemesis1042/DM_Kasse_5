@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+/target/
+||||||| empty tree
+=======
 # Prerequisites
 *.d
 
@@ -50,6 +54,4 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# debug information files
-*.dwo
+>>>>>>> 43e755c9c6d1a223d4a1f315744646bf03e99670
